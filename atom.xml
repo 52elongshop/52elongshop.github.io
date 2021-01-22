@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>52Ielong</title>
   
-  
+  <subtitle>52elong</subtitle>
   <link href="http://52elongshop.github.io/atom.xml" rel="self"/>
   
   <link href="http://52elongshop.github.io/"/>
