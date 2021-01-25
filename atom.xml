@@ -3,11 +3,11 @@
   <title>52Ielong</title>
   
   <subtitle>52elong</subtitle>
-  <link href="http://52elongshop.github.io/atom.xml" rel="self"/>
+  <link href="https://www.elong1368.com/atom.xml" rel="self"/>
   
-  <link href="http://52elongshop.github.io/"/>
+  <link href="https://www.elong1368.com/"/>
   <updated>2021-01-22T03:29:43.008Z</updated>
-  <id>http://52elongshop.github.io/</id>
+  <id>https://www.elong1368.com/</id>
   
   <author>
     <name>IElong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World2021</title>
-    <link href="http://52elongshop.github.io/2021/01/21/hello-world/"/>
-    <id>http://52elongshop.github.io/2021/01/21/hello-world/</id>
+    <link href="https://www.elong1368.com/2021/01/21/hello-world/"/>
+    <id>https://www.elong1368.com/2021/01/21/hello-world/</id>
     <published>2021-01-21T12:12:09.234Z</published>
     <updated>2021-01-22T03:29:43.008Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>标准格式</title>
-    <link href="http://52elongshop.github.io/2016/09/07/format/"/>
-    <id>http://52elongshop.github.io/2016/09/07/format/</id>
+    <link href="https://www.elong1368.com/2016/09/07/format/"/>
+    <id>https://www.elong1368.com/2016/09/07/format/</id>
     <published>2016-09-07T01:25:00.000Z</published>
     <updated>2021-01-23T15:19:01.779Z</updated>
     
@@ -55,21 +55,21 @@
     
     
     
-    <category term="IT" scheme="http://52elongshop.github.io/categories/IT/"/>
+    <category term="IT" scheme="https://www.elong1368.com/categories/IT/"/>
     
     
-    <category term="Typora" scheme="http://52elongshop.github.io/tags/Typora/"/>
+    <category term="Typora" scheme="https://www.elong1368.com/tags/Typora/"/>
     
-    <category term="Markdown" scheme="http://52elongshop.github.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
     
-    <category term="翼龙" scheme="http://52elongshop.github.io/tags/%E7%BF%BC%E9%BE%99/"/>
+    <category term="翼龙" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/"/>
     
   </entry>
   
   <entry>
     <title>主题介绍</title>
-    <link href="http://52elongshop.github.io/2016/09/07/front-matter/"/>
-    <id>http://52elongshop.github.io/2016/09/07/front-matter/</id>
+    <link href="https://www.elong1368.com/2016/09/07/front-matter/"/>
+    <id>https://www.elong1368.com/2016/09/07/front-matter/</id>
     <published>2016-09-07T01:25:00.000Z</published>
     <updated>2021-01-23T15:08:46.226Z</updated>
     
@@ -84,21 +84,21 @@
     
     
     
-    <category term="Markdown" scheme="http://52elongshop.github.io/categories/Markdown/"/>
+    <category term="Markdown" scheme="https://www.elong1368.com/categories/Markdown/"/>
     
     
-    <category term="Typora" scheme="http://52elongshop.github.io/tags/Typora/"/>
+    <category term="Typora" scheme="https://www.elong1368.com/tags/Typora/"/>
     
-    <category term="Markdown" scheme="http://52elongshop.github.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
     
-    <category term="翼龙家居" scheme="http://52elongshop.github.io/tags/%E7%BF%BC%E9%BE%99%E5%AE%B6%E5%B1%85/"/>
+    <category term="翼龙家居" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99%E5%AE%B6%E5%B1%85/"/>
     
   </entry>
   
   <entry>
     <title>snow-js</title>
-    <link href="http://52elongshop.github.io/2016/09/07/snow-js/"/>
-    <id>http://52elongshop.github.io/2016/09/07/snow-js/</id>
+    <link href="https://www.elong1368.com/2016/09/07/snow-js/"/>
+    <id>https://www.elong1368.com/2016/09/07/snow-js/</id>
     <published>2016-09-07T01:25:00.000Z</published>
     <updated>2021-01-24T08:30:45.363Z</updated>
     
@@ -113,14 +113,14 @@
     
     
     
-    <category term="Js" scheme="http://52elongshop.github.io/categories/Js/"/>
+    <category term="Js" scheme="https://www.elong1368.com/categories/Js/"/>
     
     
-    <category term="Markdown" scheme="http://52elongshop.github.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
     
-    <category term="翼龙" scheme="http://52elongshop.github.io/tags/%E7%BF%BC%E9%BE%99/"/>
+    <category term="翼龙" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/"/>
     
-    <category term="js" scheme="http://52elongshop.github.io/tags/js/"/>
+    <category term="js" scheme="https://www.elong1368.com/tags/js/"/>
     
   </entry>
   
