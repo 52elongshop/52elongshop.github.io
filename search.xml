@@ -4,27 +4,25 @@
   
     
     <entry>
-      <title>主题介绍</title>
-      <link href="2016/09/07/front-matter/"/>
-      <url>2016/09/07/front-matter/</url>
+      <title>npm_报错处理</title>
+      <link href="2016/09/07/npm-bao-cuo/"/>
+      <url>2016/09/07/npm-bao-cuo/</url>
       
-        <content type="html"><![CDATA[<p><img src="https://img.alicdn.com/bao/uploaded/i2/780616195/O1CN013lM3ke1vdMFctI2zV_!!780616195.png_240x240.jpg"></p><hr>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://img.alicdn.com/bao/uploaded/i2/780616195/O1CN013lM3ke1vdMFctI2zV_!!780616195.png_240x240.jpg"></p><hr><h2 id="处理方法"><a href="#处理方法" class="headerlink" title="处理方法"></a>处理方法</h2><pre><code>rm -rf node_modulesrm package-lock.jsonnpm cache clear --forcenpm install</code></pre><hr>]]></content>
       
       
       <categories>
           
-          <category> Markdown </category>
+          <category> 教程 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Typora </tag>
+            <tag> npm </tag>
             
-            <tag> Markdown </tag>
-            
-            <tag> 翼龙家居 </tag>
+            <tag> 翼龙 </tag>
             
         </tags>
       
@@ -49,38 +47,11 @@
       
         <tags>
             
-            <tag> Markdown </tag>
+            <tag> 翼龙 </tag>
             
             <tag> video </tag>
             
-            <tag> 翼龙 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>npm_报错处理</title>
-      <link href="2016/09/07/npm-bao-cuo/"/>
-      <url>2016/09/07/npm-bao-cuo/</url>
-      
-        <content type="html"><![CDATA[<p><img src="https://img.alicdn.com/bao/uploaded/i2/780616195/O1CN013lM3ke1vdMFctI2zV_!!780616195.png_240x240.jpg"></p><hr><h2 id="处理方法"><a href="#处理方法" class="headerlink" title="处理方法"></a>处理方法</h2><pre><code>rm -rf node_modulesrm package-lock.jsonnpm cache clear --forcenpm install</code></pre><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> 教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 翼龙 </tag>
-            
-            <tag> npm </tag>
+            <tag> Markdown </tag>
             
         </tags>
       
@@ -105,11 +76,40 @@
       
         <tags>
             
-            <tag> Typora </tag>
+            <tag> 翼龙 </tag>
             
             <tag> Markdown </tag>
             
-            <tag> 翼龙 </tag>
+            <tag> Typora </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>主题介绍</title>
+      <link href="2016/09/07/front-matter/"/>
+      <url>2016/09/07/front-matter/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://img.alicdn.com/bao/uploaded/i2/780616195/O1CN013lM3ke1vdMFctI2zV_!!780616195.png_240x240.jpg"></p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> Markdown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> Typora </tag>
+            
+            <tag> 翼龙家居 </tag>
             
         </tags>
       
@@ -134,9 +134,9 @@
       
         <tags>
             
-            <tag> Markdown </tag>
-            
             <tag> 翼龙 </tag>
+            
+            <tag> Markdown </tag>
             
             <tag> js </tag>
             

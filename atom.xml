@@ -6,7 +6,7 @@
   <link href="https://www.elong1368.com/atom.xml" rel="self"/>
   
   <link href="https://www.elong1368.com/"/>
-  <updated>2021-01-23T15:08:46.226Z</updated>
+  <updated>2021-01-28T01:03:31.202Z</updated>
   <id>https://www.elong1368.com/</id>
   
   <author>
@@ -15,64 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>主题介绍</title>
-    <link href="https://www.elong1368.com/2016/09/07/front-matter/"/>
-    <id>https://www.elong1368.com/2016/09/07/front-matter/</id>
-    <published>2016-09-07T01:25:00.000Z</published>
-    <updated>2021-01-23T15:08:46.226Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="Markdown" scheme="https://www.elong1368.com/categories/Markdown/"/>
-    
-    
-    <category term="Typora" scheme="https://www.elong1368.com/tags/Typora/"/>
-    
-    <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
-    
-    <category term="翼龙家居" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99%E5%AE%B6%E5%B1%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Video</title>
-    <link href="https://www.elong1368.com/2016/09/07/video/"/>
-    <id>https://www.elong1368.com/2016/09/07/video/</id>
-    <published>2016-09-07T01:25:00.000Z</published>
-    <updated>2021-01-28T01:19:53.670Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;视频1&quot;&gt;&lt;a href=&quot;#视频1&quot; class=&quot;headerlink&quot; title=&quot;视频1&quot;&gt;&lt;/a&gt;视频1&lt;/h2&gt;&lt;div id=&quot;dplayer0&quot; class=&quot;dplayer hexo-tag-dplayer-mark&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="video" scheme="https://www.elong1368.com/categories/video/"/>
-    
-    
-    <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
-    
-    <category term="video" scheme="https://www.elong1368.com/tags/video/"/>
-    
-    <category term="翼龙" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/"/>
-    
-  </entry>
   
   <entry>
     <title>npm_报错处理</title>
@@ -97,9 +39,38 @@
     <category term="教程" scheme="https://www.elong1368.com/categories/%E6%95%99%E7%A8%8B/"/>
     
     
+    <category term="npm" scheme="https://www.elong1368.com/tags/npm/"/>
+    
     <category term="翼龙" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/"/>
     
-    <category term="npm" scheme="https://www.elong1368.com/tags/npm/"/>
+  </entry>
+  
+  <entry>
+    <title>Video</title>
+    <link href="https://www.elong1368.com/2016/09/07/video/"/>
+    <id>https://www.elong1368.com/2016/09/07/video/</id>
+    <published>2016-09-07T01:25:00.000Z</published>
+    <updated>2021-01-28T01:19:53.670Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;视频1&quot;&gt;&lt;a href=&quot;#视频1&quot; class=&quot;headerlink&quot; title=&quot;视频1&quot;&gt;&lt;/a&gt;视频1&lt;/h2&gt;&lt;div id=&quot;dplayer0&quot; class=&quot;dplayer hexo-tag-dplayer-mark&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="video" scheme="https://www.elong1368.com/categories/video/"/>
+    
+    
+    <category term="翼龙" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/"/>
+    
+    <category term="video" scheme="https://www.elong1368.com/tags/video/"/>
+    
+    <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
     
   </entry>
   
@@ -124,11 +95,40 @@
     <category term="IT" scheme="https://www.elong1368.com/categories/IT/"/>
     
     
-    <category term="Typora" scheme="https://www.elong1368.com/tags/Typora/"/>
+    <category term="翼龙" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/"/>
     
     <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
     
-    <category term="翼龙" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/"/>
+    <category term="Typora" scheme="https://www.elong1368.com/tags/Typora/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>主题介绍</title>
+    <link href="https://www.elong1368.com/2016/09/07/front-matter/"/>
+    <id>https://www.elong1368.com/2016/09/07/front-matter/</id>
+    <published>2016-09-07T01:25:00.000Z</published>
+    <updated>2021-01-23T15:08:46.226Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="https://www.elong1368.com/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
+    
+    <category term="Typora" scheme="https://www.elong1368.com/tags/Typora/"/>
+    
+    <category term="翼龙家居" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99%E5%AE%B6%E5%B1%85/"/>
     
   </entry>
   
@@ -153,9 +153,9 @@
     <category term="Js" scheme="https://www.elong1368.com/categories/Js/"/>
     
     
-    <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
-    
     <category term="翼龙" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/"/>
+    
+    <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
     
     <category term="js" scheme="https://www.elong1368.com/tags/js/"/>
     
