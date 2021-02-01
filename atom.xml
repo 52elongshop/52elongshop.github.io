@@ -75,11 +75,11 @@
   </entry>
   
   <entry>
-    <title>标准格式</title>
+    <title>standard format</title>
     <link href="https://www.elong1368.com/2016/09/07/format/"/>
     <id>https://www.elong1368.com/2016/09/07/format/</id>
     <published>2016-09-07T01:25:00.000Z</published>
-    <updated>2021-01-23T15:19:01.779Z</updated>
+    <updated>2021-02-01T12:00:34.478Z</updated>
     
     
       
@@ -99,34 +99,7 @@
     
     <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
     
-    <category term="翼龙" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>npm_报错处理</title>
-    <link href="https://www.elong1368.com/2016/09/07/npm-bao-cuo/"/>
-    <id>https://www.elong1368.com/2016/09/07/npm-bao-cuo/</id>
-    <published>2016-09-07T01:25:00.000Z</published>
-    <updated>2021-01-28T01:03:31.202Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="教程" scheme="https://www.elong1368.com/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="翼龙" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/"/>
-    
-    <category term="npm" scheme="https://www.elong1368.com/tags/npm/"/>
+    <category term="standard format" scheme="https://www.elong1368.com/tags/standard-format/"/>
     
   </entry>
   
@@ -156,6 +129,33 @@
     <category term="翼龙" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/"/>
     
     <category term="js" scheme="https://www.elong1368.com/tags/js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>npm_报错处理</title>
+    <link href="https://www.elong1368.com/2016/09/07/npm-bao-cuo/"/>
+    <id>https://www.elong1368.com/2016/09/07/npm-bao-cuo/</id>
+    <published>2016-09-07T01:25:00.000Z</published>
+    <updated>2021-01-28T01:03:31.202Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="https://www.elong1368.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="翼龙" scheme="https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/"/>
+    
+    <category term="npm" scheme="https://www.elong1368.com/tags/npm/"/>
     
   </entry>
   
