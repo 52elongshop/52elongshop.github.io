@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.elong1368.com/2016/09/07/front-matter/</loc>
+    <loc>https://www.elong1368.com/2016/09/07/npm-bao-cuo/</loc>
     
     <lastmod>2021-02-01</lastmod>
     
@@ -10,6 +10,13 @@
   
   <url>
     <loc>https://www.elong1368.com/2016/09/07/format/</loc>
+    
+    <lastmod>2021-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.elong1368.com/2016/09/07/front-matter/</loc>
     
     <lastmod>2021-02-01</lastmod>
     
@@ -47,13 +54,6 @@
     <loc>https://www.elong1368.com/2016/09/07/video/</loc>
     
     <lastmod>2021-01-31</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.elong1368.com/2016/09/07/npm-bao-cuo/</loc>
-    
-    <lastmod>2021-01-28</lastmod>
     
   </url>
   
@@ -158,14 +158,14 @@
   </url>
   
   <url>
-    <loc>https://www.elong1368.com/tags/npm/</loc>
+    <loc>https://www.elong1368.com/tags/standard-format/</loc>
     <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.elong1368.com/tags/standard-format/</loc>
+    <loc>https://www.elong1368.com/tags/npm/</loc>
     <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -195,14 +195,14 @@
   </url>
   
   <url>
-    <loc>https://www.elong1368.com/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://www.elong1368.com/categories/IT/</loc>
     <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.elong1368.com/categories/IT/</loc>
+    <loc>https://www.elong1368.com/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
