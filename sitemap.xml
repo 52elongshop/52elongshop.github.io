@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.elong1368.com/musics/index.html</loc>
+    
+    <lastmod>2021-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.elong1368.com/galleries/index.html</loc>
+    
+    <lastmod>2021-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.elong1368.com/books/index.html</loc>
+    
+    <lastmod>2021-02-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.elong1368.com/movies/index.html</loc>
+    
+    <lastmod>2021-02-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.elong1368.com/2016/09/07/video/</loc>
     
-    <lastmod>2021-01-28</lastmod>
+    <lastmod>2021-01-31</lastmod>
     
   </url>
   
@@ -88,57 +116,57 @@
 
   <url>
     <loc>https://www.elong1368.com/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.elong1368.com/tags/npm/</loc>
-    <lastmod>2021-01-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/</loc>
-    <lastmod>2021-01-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.elong1368.com/tags/video/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <loc>https://www.elong1368.com/tags/Typora/</loc>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/tags/Markdown/</loc>
-    <lastmod>2021-01-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.elong1368.com/tags/Typora/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99%E5%AE%B6%E5%B1%85/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.elong1368.com/tags/video/</loc>
+    <lastmod>2021-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/</loc>
+    <lastmod>2021-02-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.elong1368.com/tags/npm/</loc>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/tags/js/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -146,36 +174,36 @@
 
   
   <url>
-    <loc>https://www.elong1368.com/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <loc>https://www.elong1368.com/categories/Markdown/</loc>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/categories/video/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/categories/IT/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.elong1368.com/categories/Markdown/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <loc>https://www.elong1368.com/categories/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/categories/Js/</loc>
-    <lastmod>2021-01-31</lastmod>
+    <lastmod>2021-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
