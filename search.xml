@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>音乐</title>
-      <link href="2021/02/01/yin-le/"/>
-      <url>2021/02/01/yin-le/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr><p>title: Joined forces!The perfect combination of big names in Europe and America<br>author: 翼龙<br>img: /medias/featureimages/8.jpg<br>top: true<br>cover: true<br>toc: true<br>mathjax: false<br>summary: Joined forces!The perfect combination of big names in Europe and America<br>categories: video<br>tags:</p><ul><li>video</li><li>Markdown</li><li>keywords: 翼龙<br>reprintPolicy: cc_by<br>abbrlink: ‘5450’<br>date: 2016-09-07 09:25:00<br>coverImg:</li></ul><hr><hr><p><strong>Joined forces!The perfect combination of big names in Europe and America</strong></p><hr>    <div id="aplayer-yEhgaeDm" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7785332185" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Theme introduction</title>
       <link href="2016/09/07/front-matter/"/>
       <url>2016/09/07/front-matter/</url>
@@ -152,6 +139,33 @@
             <tag> 翼龙 </tag>
             
             <tag> js </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Joined forces!The perfect combination of big names in Europe and America</title>
+      <link href="2016/09/07/yin-le/"/>
+      <url>2016/09/07/yin-le/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr><p><strong>Joined forces!The perfect combination of big names in Europe and America</strong></p><hr>    <div id="aplayer-gZCQqXHf" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7785332185" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> video </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> video </tag>
             
         </tags>
       
