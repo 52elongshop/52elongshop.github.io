@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>musics</title>
+      <link href="2021/02/01/musics/"/>
+      <url>2021/02/01/musics/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr><p>title: musics<br>author: 翼龙<br>img: /medias/featureimages/18.jpg<br>top: true<br>cover: true<br>password: 8d969eef6ecad3c29<br>toc: true<br>mathjax: false<br>summary: musics<br>categories: video<br>tags:</p><ul><li>video</li><li>Markdown</li><li>翼龙<br>keywords: 翼龙<br>reprintPolicy: cc_by<br>abbrlink: ‘5450’<br>date: 2016-09-07 09:25:00<br>coverImg:</li></ul><hr><hr>    <div id="aplayer-TNgLinnx" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7737876541" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Theme introduction</title>
       <link href="2016/09/07/front-matter/"/>
       <url>2016/09/07/front-matter/</url>
