@@ -91,6 +91,33 @@
     
     
     <entry>
+      <title>npm_报错处理</title>
+      <link href="2016/09/07/npm-bao-cuo/"/>
+      <url>2016/09/07/npm-bao-cuo/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="https://img.alicdn.com/bao/uploaded/i2/780616195/O1CN013lM3ke1vdMFctI2zV_!!780616195.png_240x240.jpg"></p><hr><h2 id="处理方法"><a href="#处理方法" class="headerlink" title="处理方法"></a>处理方法</h2><pre><code>rm -rf node_modulesrm package-lock.jsonnpm cache clear --forcenpm install</code></pre><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 翼龙 </tag>
+            
+            <tag> npm </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>snow-js</title>
       <link href="2016/09/07/snow-js/"/>
       <url>2016/09/07/snow-js/</url>
@@ -112,33 +139,6 @@
             <tag> 翼龙 </tag>
             
             <tag> js </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>npm_报错处理</title>
-      <link href="2016/09/07/npm-bao-cuo/"/>
-      <url>2016/09/07/npm-bao-cuo/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="https://img.alicdn.com/bao/uploaded/i2/780616195/O1CN013lM3ke1vdMFctI2zV_!!780616195.png_240x240.jpg"></p><hr><h2 id="处理方法"><a href="#处理方法" class="headerlink" title="处理方法"></a>处理方法</h2><pre><code>rm -rf node_modulesrm package-lock.jsonnpm cache clear --forcenpm install</code></pre><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> 教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 翼龙 </tag>
-            
-            <tag> npm </tag>
             
         </tags>
       
