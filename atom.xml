@@ -6,7 +6,7 @@
   <link href="https://www.elong1368.com/atom.xml" rel="self"/>
   
   <link href="https://www.elong1368.com/"/>
-  <updated>2021-02-01T14:53:27.707Z</updated>
+  <updated>2021-02-01T13:48:31.540Z</updated>
   <id>https://www.elong1368.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>musics</title>
-    <link href="https://www.elong1368.com/2021/02/01/musics/"/>
-    <id>https://www.elong1368.com/2021/02/01/musics/</id>
-    <published>2021-02-01T14:50:38.000Z</published>
-    <updated>2021-02-01T14:53:27.707Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Theme introduction</title>
@@ -121,6 +100,35 @@
     <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
     
     <category term="standard format" scheme="https://www.elong1368.com/tags/standard-format/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>musics</title>
+    <link href="https://www.elong1368.com/2016/09/07/musics/"/>
+    <id>https://www.elong1368.com/2016/09/07/musics/</id>
+    <published>2016-09-07T01:25:00.000Z</published>
+    <updated>2021-02-01T14:58:02.944Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="video" scheme="https://www.elong1368.com/categories/video/"/>
+    
+    
+    <category term="Markdown" scheme="https://www.elong1368.com/tags/Markdown/"/>
+    
+    <category term="video" scheme="https://www.elong1368.com/tags/video/"/>
+    
+    <category term="musics" scheme="https://www.elong1368.com/tags/musics/"/>
     
   </entry>
   
