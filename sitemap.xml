@@ -123,7 +123,7 @@
 
   <url>
     <loc>https://www.elong1368.com/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -131,63 +131,63 @@
   
   <url>
     <loc>https://www.elong1368.com/tags/Typora/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/tags/Markdown/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/tags/Pterodactyl-Home/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/tags/video/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/tags/%E7%BF%BC%E9%BE%99/</loc>
-    <lastmod>2021-02-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.elong1368.com/tags/standard-format/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/tags/musics/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.elong1368.com/tags/npm/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <loc>https://www.elong1368.com/tags/standard-format/</loc>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/tags/js/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.elong1368.com/tags/npm/</loc>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -196,35 +196,35 @@
   
   <url>
     <loc>https://www.elong1368.com/categories/Markdown/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/categories/video/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/categories/IT/</loc>
-    <lastmod>2021-02-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.elong1368.com/categories/Tutorials/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.elong1368.com/categories/Js/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.elong1368.com/categories/Tutorials/</loc>
+    <lastmod>2021-02-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

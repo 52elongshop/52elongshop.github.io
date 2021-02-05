@@ -62,6 +62,35 @@
     
     
     <entry>
+      <title>musics</title>
+      <link href="2016/09/07/musics/"/>
+      <url>2016/09/07/musics/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr>    <div id="aplayer-LqvGsNCH" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7785332185" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> video </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> video </tag>
+            
+            <tag> musics </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>standard format</title>
       <link href="2016/09/07/format/"/>
       <url>2016/09/07/format/</url>
@@ -91,16 +120,16 @@
     
     
     <entry>
-      <title>musics</title>
-      <link href="2016/09/07/musics/"/>
-      <url>2016/09/07/musics/</url>
+      <title>snow-js</title>
+      <link href="2016/09/07/snow-js/"/>
+      <url>2016/09/07/snow-js/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr>    <div id="aplayer-XyeMaGEM" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7785332185" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="2021-1-1-CODE"><a href="#2021-1-1-CODE" class="headerlink" title="2021-1-1-CODE"></a>2021-1-1-CODE</h2><p>/<em>样式一</em>/<br>(function($){<br>    $.fn.snow = function(options){<br>    var $flake = $(‘</p><div id="snowbox">‘).css({‘position’: ‘absolute’,’z-index’:’9999’, ‘top’: ‘-50px’}).html(‘❄’),<br>    documentHeight     = $(document).height(),<br>    documentWidth    = $(document).width(),<br>    defaults = {<br>        minSize        : 10,<br>        maxSize        : 20,<br>        newOn        : 1000,<br>        flakeColor    : “#AFDAEF” /* 此处可以定义雪花颜色，若要白色可以改为#FFFFFF */<br>    },<br>    options    = $.extend({}, defaults, options);<br>    var interval= setInterval( function(){<br>    var startPositionLeft = Math.random() * documentWidth - 100,<br>    startOpacity = 0.5 + Math.random(),<br>    sizeFlake = options.minSize + Math.random() * options.maxSize,<br>    endPositionTop = documentHeight - 200,<br>    endPositionLeft = startPositionLeft - 500 + Math.random() * 500,<br>    durationFall = documentHeight * 10 + Math.random() * 5000;<br>    $flake.clone().appendTo(‘body’).css({<br>        left: startPositionLeft,<br>        opacity: startOpacity,<br>        ‘font-size’: sizeFlake,<br>        color: options.flakeColor<br>    }).animate({<br>        top: endPositionTop,<br>        left: endPositionLeft,<br>        opacity: 0.2<br>    },durationFall,’linear’,function(){<br>        $(this).remove()<br>    });<br>    }, options.newOn);<br>    };<br>})(jQuery);<br>$(function(){<br>    $.fn.snow({<br>        minSize: 5, /* 定义雪花最小尺寸 <em>/<br>        maxSize: 50,/</em> 定义雪花最大尺寸 <em>/<br>        newOn: 300  /</em> 定义密集程度，数字越小越密集 */<br>    });<br>});<p></p></div>]]></content>
       
       
       <categories>
           
-          <category> video </category>
+          <category> Js </category>
           
       </categories>
       
@@ -109,9 +138,9 @@
             
             <tag> Markdown </tag>
             
-            <tag> video </tag>
+            <tag> 翼龙 </tag>
             
-            <tag> musics </tag>
+            <tag> js </tag>
             
         </tags>
       
@@ -139,35 +168,6 @@
             <tag> Pterodactyl Home </tag>
             
             <tag> npm </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>snow-js</title>
-      <link href="2016/09/07/snow-js/"/>
-      <url>2016/09/07/snow-js/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="2021-1-1-CODE"><a href="#2021-1-1-CODE" class="headerlink" title="2021-1-1-CODE"></a>2021-1-1-CODE</h2><p>/<em>样式一</em>/<br>(function($){<br>    $.fn.snow = function(options){<br>    var $flake = $(‘</p><div id="snowbox">‘).css({‘position’: ‘absolute’,’z-index’:’9999’, ‘top’: ‘-50px’}).html(‘❄’),<br>    documentHeight     = $(document).height(),<br>    documentWidth    = $(document).width(),<br>    defaults = {<br>        minSize        : 10,<br>        maxSize        : 20,<br>        newOn        : 1000,<br>        flakeColor    : “#AFDAEF” /* 此处可以定义雪花颜色，若要白色可以改为#FFFFFF */<br>    },<br>    options    = $.extend({}, defaults, options);<br>    var interval= setInterval( function(){<br>    var startPositionLeft = Math.random() * documentWidth - 100,<br>    startOpacity = 0.5 + Math.random(),<br>    sizeFlake = options.minSize + Math.random() * options.maxSize,<br>    endPositionTop = documentHeight - 200,<br>    endPositionLeft = startPositionLeft - 500 + Math.random() * 500,<br>    durationFall = documentHeight * 10 + Math.random() * 5000;<br>    $flake.clone().appendTo(‘body’).css({<br>        left: startPositionLeft,<br>        opacity: startOpacity,<br>        ‘font-size’: sizeFlake,<br>        color: options.flakeColor<br>    }).animate({<br>        top: endPositionTop,<br>        left: endPositionLeft,<br>        opacity: 0.2<br>    },durationFall,’linear’,function(){<br>        $(this).remove()<br>    });<br>    }, options.newOn);<br>    };<br>})(jQuery);<br>$(function(){<br>    $.fn.snow({<br>        minSize: 5, /* 定义雪花最小尺寸 <em>/<br>        maxSize: 50,/</em> 定义雪花最大尺寸 <em>/<br>        newOn: 300  /</em> 定义密集程度，数字越小越密集 */<br>    });<br>});<p></p></div>]]></content>
-      
-      
-      <categories>
-          
-          <category> Js </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Markdown </tag>
-            
-            <tag> 翼龙 </tag>
-            
-            <tag> js </tag>
             
         </tags>
       
