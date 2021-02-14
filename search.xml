@@ -33,35 +33,6 @@
     
     
     <entry>
-      <title>Video</title>
-      <link href="2016/09/07/video/"/>
-      <url>2016/09/07/video/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="视频1"><a href="#视频1" class="headerlink" title="视频1"></a>视频1</h2><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"hotkey":true,"preload":"metadata","video":{"url":"http://www.nenu.edu.cn/_upload/article/videos/03/5f/7c999eed42e3aadc413d7f851f0e/0f50b3eb-9285-41d2-ac4d-6cc363651aad_B.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> <hr><p>有关的选项列表如下:</p><p>选项    默认值    描述<br>url    必须值    视频地址<br>loop    false    视频循环播放<br>volume    0.7    播放器音量<br>hotkey    true    开启热键<br>autoplay    true    自动播放，移动端浏览器暂时不支持此功能<br>logo    -    在左上角展示一个 logo，你可以通过 CSS 调整它的大小和位置<br>mutex    true    该选项开启时，如果同页面有其他播放，该播放器会暂停<br>highlight    []    自定义进度条提示点<br>preload    auto    视频文件预载入模式，可选项： none, metadata, auto<br>theme    #ad7a86    播放器风格色彩设置</p><hr><h2 id="视频2"><a href="#视频2" class="headerlink" title="视频2"></a>视频2</h2><table><thead><tr><th>—-</th><th>—-</th><th>—-</th></tr></thead><tbody><tr><td>—-</td><td>—-</td><td>—-</td></tr><tr><td>—-</td><td>—-</td><td>—-</td></tr></tbody></table><hr><h2 id="视频3"><a href="#视频3" class="headerlink" title="视频3"></a>视频3</h2><div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"video":{"url":"https://v-cdn.zjol.com.cn/276985.mp4"},"danmaku":{"id":"someid","api":"https://api.prprpr.me/dplayer/","addition":["/some.json"]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);player.on("loadstart",function(){console.log("loadstart")})})()</script><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> video </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Markdown </tag>
-            
-            <tag> video </tag>
-            
-            <tag> 翼龙 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>standard format</title>
       <link href="2016/09/07/format/"/>
       <url>2016/09/07/format/</url>
@@ -91,11 +62,40 @@
     
     
     <entry>
+      <title>Video</title>
+      <link href="2016/09/07/video/"/>
+      <url>2016/09/07/video/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="视频1"><a href="#视频1" class="headerlink" title="视频1"></a>视频1</h2><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"hotkey":true,"preload":"metadata","video":{"url":"http://www.nenu.edu.cn/_upload/article/videos/03/5f/7c999eed42e3aadc413d7f851f0e/0f50b3eb-9285-41d2-ac4d-6cc363651aad_B.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> <hr><p>有关的选项列表如下:</p><p>选项    默认值    描述<br>url    必须值    视频地址<br>loop    false    视频循环播放<br>volume    0.7    播放器音量<br>hotkey    true    开启热键<br>autoplay    true    自动播放，移动端浏览器暂时不支持此功能<br>logo    -    在左上角展示一个 logo，你可以通过 CSS 调整它的大小和位置<br>mutex    true    该选项开启时，如果同页面有其他播放，该播放器会暂停<br>highlight    []    自定义进度条提示点<br>preload    auto    视频文件预载入模式，可选项： none, metadata, auto<br>theme    #ad7a86    播放器风格色彩设置</p><hr><h2 id="视频2"><a href="#视频2" class="headerlink" title="视频2"></a>视频2</h2><table><thead><tr><th>—-</th><th>—-</th><th>—-</th></tr></thead><tbody><tr><td>—-</td><td>—-</td><td>—-</td></tr><tr><td>—-</td><td>—-</td><td>—-</td></tr></tbody></table><hr><h2 id="视频3"><a href="#视频3" class="headerlink" title="视频3"></a>视频3</h2><div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"autoplay":true,"video":{"url":"https://v-cdn.zjol.com.cn/276985.mp4"},"danmaku":{"id":"someid","api":"https://api.prprpr.me/dplayer/","addition":["/some.json"]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);player.on("loadstart",function(){console.log("loadstart")})})()</script><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> video </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> video </tag>
+            
+            <tag> 翼龙 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>musics</title>
       <link href="2016/09/07/musics/"/>
       <url>2016/09/07/musics/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr>    <div id="aplayer-MaDLmOvj" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7785332185" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr>    <div id="aplayer-YoNqSGTt" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7785332185" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
       
       
       <categories>
