@@ -62,11 +62,11 @@
     
     
     <entry>
-      <title>standard format</title>
+      <title>主题介绍</title>
       <link href="2016/09/07/format/"/>
       <url>2016/09/07/format/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="https://img.alicdn.com/bao/uploaded/i2/780616195/O1CN013lM3ke1vdMFctI2zV_!!780616195.png_240x240.jpg"></p><hr>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="翼龙佳居"><a href="#翼龙佳居" class="headerlink" title="翼龙佳居"></a>翼龙佳居</h2><hr><table><thead><tr><th>锂电</th><th>充电宝</th><th>保温杯</th></tr></thead><tbody><tr><td><img src="https://img.alicdn.com/bao/uploaded/i3/780616195/O1CN01ajb1Uf1vdMHCi5QIu_!!780616195.jpg_240x240.jpg"></td><td><img src="https://img.alicdn.com/bao/uploaded/i3/780616195/O1CN01XJMhCJ1vdMHFhdeMD_!!780616195.jpg_240x240.jpg"></td><td><img src="https://img.alicdn.com/bao/uploaded/i2/780616195/O1CN01FRQMGE1vdMHBhXFTQ_!!0-item_pic.jpg_240x240.jpg"></td></tr><tr><td><a href="https://item.taobao.com/item.htm?spm=a21ag.12100459.0.0.565850a5r0yR6a&amp;id=635138497517">详情</a></td><td><a href="https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-22468553571.29.2aa05cfcFUYCeH&amp;id=635825519467">详情</a></td><td><a href="https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-22468553571.20.2aa05cfcFUYCeH&amp;id=634882168750">详情</a></td></tr></tbody></table><p><img src="https://img.alicdn.com/bao/uploaded/i2/780616195/O1CN013lM3ke1vdMFctI2zV_!!780616195.png_240x240.jpg"></p><hr>]]></content>
       
       
       <categories>
@@ -77,8 +77,6 @@
       
       
         <tags>
-            
-            <tag> Typora </tag>
             
             <tag> Markdown </tag>
             
@@ -95,7 +93,7 @@
       <link href="2016/09/07/musics/"/>
       <url>2016/09/07/musics/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr>    <div id="aplayer-WCKbSLSV" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7785332185" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr>    <div id="aplayer-bCAoDIzP" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7785332185" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
       
       
       <categories>
@@ -112,33 +110,6 @@
             <tag> video </tag>
             
             <tag> musics </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>npm_Error handling</title>
-      <link href="2016/09/07/npm-bao-cuo/"/>
-      <url>2016/09/07/npm-bao-cuo/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table><thead><tr><th>—-</th><th>—-</th><th>—-</th></tr></thead><tbody><tr><td><img src="https://img.alicdn.com/bao/uploaded/i4/780616195/O1CN01MCtcBd1vdMFWemlrH_!!780616195.jpg_240x240.jpg"></td><td><img src="https://img.alicdn.com/bao/uploaded/i4/780616195/O1CN01EGLUlK1vdMFijD8t4_!!780616195.jpg_240x240.jpg"></td><td><img src="https://img.alicdn.com/bao/uploaded/i3/780616195/O1CN01UWzq6g1vdMGkEbfCf_!!0-item_pic.jpg_240x240.jpg"></td></tr><tr><td>—-</td><td>—-</td><td>—-</td></tr><tr><td>—-</td><td>—-</td><td>—-</td></tr></tbody></table><hr><h2 id="处理方法"><a href="#处理方法" class="headerlink" title="处理方法"></a>处理方法</h2><pre><code>rm -rf node_modulesrm package-lock.jsonnpm cache clear --forcenpm install</code></pre><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> Tutorials </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Pterodactyl Home </tag>
-            
-            <tag> npm </tag>
             
         </tags>
       
@@ -168,6 +139,33 @@
             <tag> 翼龙 </tag>
             
             <tag> js </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>npm_Error handling</title>
+      <link href="2016/09/07/npm-bao-cuo/"/>
+      <url>2016/09/07/npm-bao-cuo/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table><thead><tr><th>—-</th><th>—-</th><th>—-</th></tr></thead><tbody><tr><td><img src="https://img.alicdn.com/bao/uploaded/i4/780616195/O1CN01MCtcBd1vdMFWemlrH_!!780616195.jpg_240x240.jpg"></td><td><img src="https://img.alicdn.com/bao/uploaded/i4/780616195/O1CN01EGLUlK1vdMFijD8t4_!!780616195.jpg_240x240.jpg"></td><td><img src="https://img.alicdn.com/bao/uploaded/i3/780616195/O1CN01UWzq6g1vdMGkEbfCf_!!0-item_pic.jpg_240x240.jpg"></td></tr><tr><td>—-</td><td>—-</td><td>—-</td></tr><tr><td>—-</td><td>—-</td><td>—-</td></tr></tbody></table><hr><h2 id="处理方法"><a href="#处理方法" class="headerlink" title="处理方法"></a>处理方法</h2><pre><code>rm -rf node_modulesrm package-lock.jsonnpm cache clear --forcenpm install</code></pre><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tutorials </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Pterodactyl Home </tag>
+            
+            <tag> npm </tag>
             
         </tags>
       
