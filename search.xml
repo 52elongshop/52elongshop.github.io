@@ -62,6 +62,35 @@
     
     
     <entry>
+      <title>musics</title>
+      <link href="2016/09/07/musics/"/>
+      <url>2016/09/07/musics/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr>    <div id="aplayer-fbkNsnAo" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7785332185" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> video </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> video </tag>
+            
+            <tag> musics </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>主题介绍</title>
       <link href="2016/09/07/format/"/>
       <url>2016/09/07/format/</url>
@@ -81,35 +110,6 @@
             <tag> Markdown </tag>
             
             <tag> standard format </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>musics</title>
-      <link href="2016/09/07/musics/"/>
-      <url>2016/09/07/musics/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr>    <div id="aplayer-jzCPLjdc" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7785332185" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> video </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Markdown </tag>
-            
-            <tag> video </tag>
-            
-            <tag> musics </tag>
             
         </tags>
       
