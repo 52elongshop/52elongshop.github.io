@@ -62,33 +62,6 @@
     
     
     <entry>
-      <title>npm_Error handling</title>
-      <link href="2016/09/07/npm-bao-cuo/"/>
-      <url>2016/09/07/npm-bao-cuo/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table><thead><tr><th>—-</th><th>—-</th><th>—-</th></tr></thead><tbody><tr><td><img src="https://img.alicdn.com/bao/uploaded/i4/780616195/O1CN01MCtcBd1vdMFWemlrH_!!780616195.jpg_240x240.jpg"></td><td><img src="https://img.alicdn.com/bao/uploaded/i4/780616195/O1CN01EGLUlK1vdMFijD8t4_!!780616195.jpg_240x240.jpg"></td><td><img src="https://img.alicdn.com/bao/uploaded/i3/780616195/O1CN01UWzq6g1vdMGkEbfCf_!!0-item_pic.jpg_240x240.jpg"></td></tr><tr><td>—-</td><td>—-</td><td>—-</td></tr><tr><td>—-</td><td>—-</td><td>—-</td></tr></tbody></table><hr><h2 id="处理方法"><a href="#处理方法" class="headerlink" title="处理方法"></a>处理方法</h2><pre><code>rm -rf node_modulesrm package-lock.jsonnpm cache clear --forcenpm install</code></pre><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> Tutorials </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Pterodactyl Home </tag>
-            
-            <tag> npm </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>主题介绍</title>
       <link href="2016/09/07/format/"/>
       <url>2016/09/07/format/</url>
@@ -108,6 +81,62 @@
             <tag> Markdown </tag>
             
             <tag> standard format </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>musics</title>
+      <link href="2016/09/07/musics/"/>
+      <url>2016/09/07/musics/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr>    <div id="aplayer-YjMRmkLP" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7785332185" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> video </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> video </tag>
+            
+            <tag> musics </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>npm_Error handling</title>
+      <link href="2016/09/07/npm-bao-cuo/"/>
+      <url>2016/09/07/npm-bao-cuo/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><table><thead><tr><th>—-</th><th>—-</th><th>—-</th></tr></thead><tbody><tr><td><img src="https://img.alicdn.com/bao/uploaded/i4/780616195/O1CN01MCtcBd1vdMFWemlrH_!!780616195.jpg_240x240.jpg"></td><td><img src="https://img.alicdn.com/bao/uploaded/i4/780616195/O1CN01EGLUlK1vdMFijD8t4_!!780616195.jpg_240x240.jpg"></td><td><img src="https://img.alicdn.com/bao/uploaded/i3/780616195/O1CN01UWzq6g1vdMGkEbfCf_!!0-item_pic.jpg_240x240.jpg"></td></tr><tr><td>—-</td><td>—-</td><td>—-</td></tr><tr><td>—-</td><td>—-</td><td>—-</td></tr></tbody></table><hr><h2 id="处理方法"><a href="#处理方法" class="headerlink" title="处理方法"></a>处理方法</h2><pre><code>rm -rf node_modulesrm package-lock.jsonnpm cache clear --forcenpm install</code></pre><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> Tutorials </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Pterodactyl Home </tag>
+            
+            <tag> npm </tag>
             
         </tags>
       
@@ -137,35 +166,6 @@
             <tag> 翼龙 </tag>
             
             <tag> js </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>musics</title>
-      <link href="2016/09/07/musics/"/>
-      <url>2016/09/07/musics/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><hr>    <div id="aplayer-cBVDOYKR" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="7785332185" data-server="tencent" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"></div><hr>]]></content>
-      
-      
-      <categories>
-          
-          <category> video </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Markdown </tag>
-            
-            <tag> video </tag>
-            
-            <tag> musics </tag>
             
         </tags>
       
