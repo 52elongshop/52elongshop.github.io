@@ -59,7 +59,7 @@
   isHome: false,
   isHighlightShrink: false,
   isToc: false,
-  postUpdate: '2024-03-02 17:45:51',
+  postUpdate: '2024-03-02 18:06:41',
   postMainColor: '',
 }</script><noscript><style type="text/css">
   #nav {
@@ -443,7 +443,7 @@ queueMicrotask(() => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
       envId: 'https://jack2049-twikoo.hf.space',
-      region: '',
+      region: 'https://huggingface.co/spaces/jack2049/Twikoo',
       onCommentLoaded: () => {
         anzhiyu.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
       }
@@ -460,7 +460,7 @@ queueMicrotask(() => {
     if(!countELement) return
     twikoo.getCommentsCount({
       envId: 'https://jack2049-twikoo.hf.space',
-      region: '',
+      region: 'https://huggingface.co/spaces/jack2049/Twikoo',
       urls: [window.location.pathname],
       includeReply: false
     }).then(res => {
@@ -529,7 +529,7 @@ queueMicrotask(() => {
     const runTwikoo = () => {
       twikoo.getRecentComments({
         envId: 'https://jack2049-twikoo.hf.space',
-        region: '',
+        region: 'https://huggingface.co/spaces/jack2049/Twikoo',
         pageSize: 6,
         includeReply: true
       }).then(function (res) {

@@ -374,7 +374,7 @@ queueMicrotask(() => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
       envId: 'https://jack2049-twikoo.hf.space',
-      region: '',
+      region: 'https://huggingface.co/spaces/jack2049/Twikoo',
       onCommentLoaded: () => {
         anzhiyu.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
       }
@@ -391,7 +391,7 @@ queueMicrotask(() => {
     if(!countELement) return
     twikoo.getCommentsCount({
       envId: 'https://jack2049-twikoo.hf.space',
-      region: '',
+      region: 'https://huggingface.co/spaces/jack2049/Twikoo',
       urls: [window.location.pathname],
       includeReply: false
     }).then(res => {
@@ -460,7 +460,7 @@ queueMicrotask(() => {
     const runTwikoo = () => {
       twikoo.getRecentComments({
         envId: 'https://jack2049-twikoo.hf.space',
-        region: '',
+        region: 'https://huggingface.co/spaces/jack2049/Twikoo',
         pageSize: 6,
         includeReply: true
       }).then(function (res) {
